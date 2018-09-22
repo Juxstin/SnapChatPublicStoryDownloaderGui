@@ -1,0 +1,14 @@
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\bin\Debug\Snapchat Public Story Downloader.exe.config
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\bin\Debug\Snapchat Public Story Downloader.exe
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\bin\Debug\Snapchat Public Story Downloader.pdb
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\bin\Debug\Snapchat Public Story Downloader.xml
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\obj\Debug\Snapchat Public Story Downloader.vbprojAssemblyReference.cache
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\obj\Debug\Snapchat_Public_Story_Downloader.Form1.resources
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\obj\Debug\Snapchat_Public_Story_Downloader.Resources.resources
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\obj\Debug\Snapchat Public Story Downloader.vbproj.GenerateResource.cache
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\obj\Debug\Snapchat Public Story Downloader.vbproj.CoreCompileInputs.cache
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\obj\Debug\Snapchat Public Story Downloader.exe
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\obj\Debug\Snapchat Public Story Downloader.xml
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\obj\Debug\Snapchat Public Story Downloader.pdb
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\obj\Debug\Snapchat_Public_Story_Downloader.Form2.resources
+c:\users\nividia\source\repos\Snapchat Public Story Downloader\Snapchat Public Story Downloader\obj\Debug\Snapchat_Public_Story_Downloader.Downloader.resources
