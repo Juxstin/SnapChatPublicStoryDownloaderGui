@@ -2,8 +2,10 @@
 
 Public Class Downloader
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim webClient As New System.Net.WebClient
-        Dim result As String = webClient.DownloadString("http://198.27.82.201/snapdl.php?key=TeamNilXXTEX&user=" + TextBox1.Text)
-        TextBox2.Text = result
+        MsgBox("A New broweser will open... RIGHT CLICK THE VIDEO TO SAVE <3")
+        Process.Start("https://story.snapchat.com/s/" + TextBox1.Text)
+    End Sub
+
+    Private Sub Downloader_Load(sender As Object, e As EventArgs) Handles MyBase.Load
     End Sub
 End Class
